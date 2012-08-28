@@ -7,9 +7,9 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="camara.policy"
+      title="Camara Site Policy"
       directory="profiles/default"
-      description="Installs the camara.policy package"
+      description="Turns a Plone Site to a Camara Site"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
   <!-- -*- extra stuff goes here -*- -->

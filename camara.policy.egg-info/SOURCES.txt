@@ -12,4 +12,5 @@ camara.policy.egg-info/paster_plugins.txt
 camara.policy.egg-info/requires.txt
 camara.policy.egg-info/top_level.txt
 camara/policy/__init__.py
+camara/policy/testing.py
 camara/policy/tests.py
