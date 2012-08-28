@@ -1,0 +1,15 @@
+README.txt
+setup.cfg
+setup.py
+camara/__init__.py
+camara.policy.egg-info/PKG-INFO
+camara.policy.egg-info/SOURCES.txt
+camara.policy.egg-info/dependency_links.txt
+camara.policy.egg-info/entry_points.txt
+camara.policy.egg-info/namespace_packages.txt
+camara.policy.egg-info/not-zip-safe
+camara.policy.egg-info/paster_plugins.txt
+camara.policy.egg-info/requires.txt
+camara.policy.egg-info/top_level.txt
+camara/policy/__init__.py
+camara/policy/tests.py
